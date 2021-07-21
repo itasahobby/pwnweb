@@ -52,8 +52,6 @@ The tool provides a simple Web server using http server including reverse shells
 To install it run the following commands:
 
 ```sh
-sudo apt install libpcap0.8-dev libcap-dev golang
-go get -u github.com/liamg/furious
 sudo wget https://raw.githubusercontent.com/itasahobby/pwnweb/master/pwnwebscan.sh -O /usr/bin/pwnweb
 sudo chmod +x /usr/bin/pwnweb
 ```
