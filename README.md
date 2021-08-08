@@ -52,7 +52,7 @@ The tool provides a simple Web server using http server including reverse shells
 To install it run the following commands:
 
 ```sh
-sudo wget https://raw.githubusercontent.com/itasahobby/pwnweb/master/pwnwebscan.sh -O /usr/bin/pwnweb
+sudo wget https://raw.githubusercontent.com/itasahobby/pwnweb/master/pwnweb.sh -O /usr/bin/pwnweb
 sudo chmod +x /usr/bin/pwnweb
 ```
 
